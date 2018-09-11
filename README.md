@@ -86,12 +86,12 @@ Este é um exemplo prático de uma utilização da estrutura JSON para o cadastr
     "gorgetas": 12
 }
 ```
-### Gurandir
+### Jurandir
 ```javascript
 {
     "id": 3,
     "cpf": 37654897543,
-    "nome": "Gurandir",
+    "nome": "Jurandir",
     "salario": 999.99,
     "gorgetas": 99
 }
