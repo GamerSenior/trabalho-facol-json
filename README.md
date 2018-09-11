@@ -1,7 +1,7 @@
 # Trabalho JSON
-*** Faculdade Origines Lessa - 2018
+** Faculdade Origines Lessa - 2018
  Professor: Fabio Eduardo dos Santos
- Aluno: Giovani Garcia Abel R.A.: 7122 ***
+ Aluno: Giovani Garcia Abel R.A.: 7122 **
 
 JSON, é um formato de texto utilizado para transações de dados, sua sigla significa JavaSript Object Notation e é um subset da linguagem JavaScript. Possui duas estruturas, a primeira, comumente chamada de JSON Object, é uma coleção de pares compostas por chave e valor, sendo sua chave um texto e seu valor um dos seguintes tipos:
 
