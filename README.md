@@ -10,11 +10,11 @@ JSON, é um formato de texto utilizado para transações de dados, sua sigla sig
 +nulo
 
 Um objeto JSON possui a seguinte estrutura:
-`{
+```{
     "nome": "Um nome qualquer",
     "idade": 25,
     "objeto": {
                 "booleano": true
             },
     "nada": null
-}`
+}```
