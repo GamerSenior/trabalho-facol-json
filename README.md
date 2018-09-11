@@ -70,7 +70,7 @@ Este é um exemplo prático de uma utilização da estrutura JSON para o cadastr
 ```javascript
 {
     "id": 1,
-    "cpf": 34587643234, 
+    "cpf": 34587643234,
     "nome": "Epaminondas",
     "salario": 580.93,
     "gorgetas": 35
@@ -80,7 +80,7 @@ Este é um exemplo prático de uma utilização da estrutura JSON para o cadastr
 ```javascript
 {
     "id": 2,
-    "cpf": 40936726873, 
+    "cpf": 40936726873,
     "nome": "Euclides",
     "salario": 483.63,
     "gorgetas": 12
@@ -90,8 +90,8 @@ Este é um exemplo prático de uma utilização da estrutura JSON para o cadastr
 ```javascript
 {
     "id": 3,
-    "cpf": 37654897543, 
-    "nome": ""Gurandir,
+    "cpf": 37654897543,
+    "nome": "Gurandir",
     "salario": 999.99,
     "gorgetas": 99
 }
@@ -112,7 +112,7 @@ Este é um exemplo prático de uma utilização da estrutura JSON para o cadastr
     "id": 24,
     "idGarcon": 2,
     "pizzas": ["atum", "calabresa"],
-    "total": 40.80 
+    "total": 40.80
 }
 ```
 ### Pedido 42
@@ -121,6 +121,6 @@ Este é um exemplo prático de uma utilização da estrutura JSON para o cadastr
     "id": 42,
     "idGarcon": 1,
     "pizzas": ["portuguesa", "atum", "calabresa"],
-    "total": 59.70 
+    "total": 59.70
 }
 ```
