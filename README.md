@@ -120,7 +120,7 @@ Este é um exemplo prático de uma utilização da estrutura JSON para o cadastr
 {
     "id": 42,
     "idGarcon": 1,
-    "pizzas": ["portuguesa", atum", "calabresa"],
+    "pizzas": ["portuguesa", "atum", "calabresa"],
     "total": 59.70 
 }
 ```
